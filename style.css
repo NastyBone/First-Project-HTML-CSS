@@ -159,7 +159,7 @@ body{
 }
 
 .main-option-description{
-    font-size: 1.8vw;
+    font-size: 1.6vw;
     position: absolute;
     bottom: 15%;
 
@@ -232,7 +232,16 @@ body{
 
 } 
     
-
+@media screen and (max-width: 952px), (max-height: 800px) {
+    .footer-info {
+        font-size: 2vw;
+    }
+    
+    .side-bar_button{
+        font-size: 1em;
+    }
+    
+}
 
 @media screen and (max-width: 810px), (max-height: 765px) {
 
