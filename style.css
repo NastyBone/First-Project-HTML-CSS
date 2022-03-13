@@ -159,7 +159,7 @@ body{
 }
 
 .main-option-description{
-    font-size: 1.5em;
+    font-size: 1.8vw;
     position: absolute;
     bottom: 15%;
 
@@ -234,7 +234,7 @@ body{
     
 
 
-@media screen and (max-width: 810px), (max-height: 690px) {
+@media screen and (max-width: 810px), (max-height: 765px) {
 
     body{
         overflow: scroll;
